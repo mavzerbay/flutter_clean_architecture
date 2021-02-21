@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "flutter_clean_architecture.iml": true,
+    "pubspec.lock": true,
+    "auth\\.dart_tool": true,
+    "auth\\.idea": true,
+    "auth\\.gitignore": true,
+    "auth\\.metadata": true,
+    "auth\\.packages": true,
+    "auth\\auth.iml": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\LICENSE": true,
+    "auth\\pubspec.lock": true,
+    "android": true,
+    "ios": true
+  }
+}
